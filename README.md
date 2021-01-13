@@ -1,4 +1,4 @@
-## Screenshot Example 1: managing speakers from event's homepage
+##
 
 ![Laravel Conference event speakers](https://laraveldaily.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-26-at-11.43.03-AM.png)
 
@@ -6,7 +6,7 @@
 
 - - - - -
 
-## Screenshot Example 2: managing schedule from event's homepage
+##
 
 ![Laravel Conference event schedule](https://laraveldaily.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-26-at-11.39.17-AM.png)
 
@@ -14,15 +14,10 @@
 
 - - - - -
 
-## Screenshot Example 3: homepage main settings management
+##
 
 ![Laravel Conference event main page](https://laraveldaily.com/wp-content/uploads/2019/09/800.png)
 
 ![Laravel Conference event main management](https://laraveldaily.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-26-at-11.54.02-AM.png)
 
 - - - - -
-
-- Front-end part is taken from [TheEvent by BootstrapMade](https://bootstrapmade.com/theevent-conference-event-bootstrap-template/) and transformed into Laravel Blade and assets.
-- Admin part is fully generated with [QuickAdminPanel](https://2019.quickadminpanel.com).
-
----
